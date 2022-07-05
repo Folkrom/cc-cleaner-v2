@@ -1,0 +1,14 @@
+{
+  "name": "serverless-cc-cleaner",
+  "version": "1.0.0",
+  "description": "cc cleaner v2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
